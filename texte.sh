@@ -1,1 +1,4 @@
 Hello
+Merci
+Bonsoir
+Gandhi
